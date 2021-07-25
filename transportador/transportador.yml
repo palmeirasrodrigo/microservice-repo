@@ -3,6 +3,6 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://localhost:3306/fornecedor?useTimezone=true&serverTimezone=America/Sao_Paulo
+    url: jdbc:mysql://localhost:3306/transportador?useTimezone=true&serverTimezone=America/Sao_Paulo
     password: root
     username: root
